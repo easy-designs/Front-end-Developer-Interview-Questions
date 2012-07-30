@@ -5,50 +5,53 @@
 ## Resume Questions:
 
 * For each job on their resume (or a handful if it’s packed):
-	* How did you get this job?
-	* Before you left, what did you like about it?
+	* How did youfind out about the job?
+	* What did you like about the job before you started?
 	* Why did you leave?
+* If not included:
+	* Are you on Twitter? 
+		* If so, who do you follow on Twitter?
+	* Are you on Github? 
+		* If so, what are some examples of repositories you follow  
+	* What version control systems have you used? 
+* What languages do you feel most comfortable authoring in? Least comfortable?
+	* If you could master one technology this year, what would it be? 
+* If you weren’t working on the Web, what would you be doing? 
 
 ## General Questions:
 
-* Are you on Twitter? 
-	* If so, who do you follow on Twitter?
-* Are you on Github? 
-	* If so, what are some examples of repositories you follow  
 * What blogs do you follow? 
-* What version control systems have you used? 
 * What is your preferred development enviroment? (OS, Editor, Browsers, Tools, etc.) 
+* If you jumped on a project and they used tabs and you used spaces, what would you do?
+	* Bonus points for "check with the team’s standards guide and adapt accordingly"
+* Explain the importance of standards. (Web Standards & coding standards)
 * Can you describe your workflow when you create a web page? 
+* What project workflows have you used? Which do you prefer?
+* Do you prefer to work alone or with a team?
+* In what hours of day are you most productive?
 * Can you describe the difference between progressive enhancement and graceful degredation? 
 	* Bonus points for knowing they are related but philosophically different
 	* Which philosophy guides your work?
 	* How do you integrate it?
 		* Extra bonus points for describing feature detection  
-* Explain what "Semantic HTML" means. 
-* What does "minification" do? 
-* Why is it better to serve site assets from multiple domains? 
-	* How many resources will a browser download from a given domain at a time?  
-* If you have 8 different stylesheets for a given design, how would you integrate them into the site? 
-	* Looking for file concatenation.
-	* Points off for `@import`, unless it works in conjunction with a build system.  
-* If you jumped on a project and they used tabs and you used spaces, what would you do?
-	* Bonus points for "check with the team’s standards guide and adapt accordingly"
-* What tools do you use to test your code's performance? 
-* If you could master one technology this year, what would it be? 
 * Name 3 ways to decrease page load. (perceived or actual load time)
-* Explain the importance of standards.  
+	* What does "minification" do? 
+	* Why is it better to serve site assets from multiple domains? 
+		* How many resources will a browser download from a given domain at a time?  
+		* What tools do you use to test your code's performance? 
 
 ## HTML-Specific Questions:
 
+* Explain what "Semantic HTML" means. 
 * What's a `doctype` do, and how many can you name? 
 * What's the difference between "standards mode" and "quirks mode"? 
+* Explain the purpose of `class` and `id` attributes.
 * How do you serve a page with content in multiple languages? 
 * Can you use XHTML syntax in HTML5? How do you use XML in HTML5? 
 * What are `data-` attributes good for? 
 * What are the content models in HTML4 and are they different in HTML5? 
 * Consider HTML5 as an open web platform. What are the building blocks of HTML5? 
 * Describe the difference between cookies, sessionStorage and localStorage.  
-* Explain the purpose of `class` and `id` attributes.
 
 ## CSS-Specific Questions:
 
@@ -65,6 +68,9 @@
 * How do you serve your pages for feature-constrained browsers? 
 	* What techniques/processes do you use? 
 	* Bonus points for mobile-first media queries
+* If you have 8 different stylesheets for a given design, how would you integrate them into the site? 
+	* Looking for file concatenation.
+	* Points off for `@import`, unless it works in conjunction with a build system.  
 * What are the different ways to visually hide content (and make it available only for screen readers)? 
 * Have you ever used a grid system, and if so, what do you prefer? 
 * Any familiarity with styling SVG? 
@@ -183,19 +189,16 @@ $(".foo div#bar:eq(0)")
 
 ## Optional fun Questions:
 
-* What's the coolest thing you've ever coded, what are you most proud of? 
-* Are you now, or have you ever been, on a boat. 
-* Tell me your favorite parts about Firebug / Webkit Inspector. Least favorite?
+* What's the coolest thing you've ever coded? What are you most proud of? 
 * Do you have any pet projects? What kind? 
+* Tell me your favorite parts about Firebug / Webkit Inspector. Least favorite?
+* Pirate or Ninja? 
+	* Bonus if it's a combo and a good reason was given (+2 for zombie monkey pirate ninjas) 
 * On a piece of paper, write down the letters A B C D E vertically. Now put these in descending order without writing one line of code. 
 	* Wait and see if they turn the paper upside down
 	* This should make the laugh and is a fine way to relieve some tension at the end of the interview.  
-* Pirate or Ninja? 
-	* Bonus if it's a combo and a good reason was given (+2 for zombie monkey pirate ninjas) 
-* If not Web Development what would you be doing? 
-* Complete this sentence: Brendan Eich and Doug Crockford are the __________ of javascript.
 
 
 ##Contributors
 
-@bentruyman (http://bentruyman.com/), @roger_raymond (http://twitter.com/iansym), @ajpiano (http://ajpiano.com/), @paul_irish (http://paulirish.com/), @SlexAxton (http://alexsexton.com/), @boazsender (http://boazsender.com/), @miketaylr (http://miketaylr.com/), @vladikoff (http://vladfilippov.com/), @gf3 (http://gf3.ca/), @jon_neal (http://twitter.com/jon_neal), @wookiehangover (http://wookiehangover.com/) and @darcy_clarke (http://darcyclarke.me), Aaron Gustafson (@AaronGustafson)
+@bentruyman (http://bentruyman.com/), @roger_raymond (http://twitter.com/iansym), @ajpiano (http://ajpiano.com/), @paul_irish (http://paulirish.com/), @SlexAxton (http://alexsexton.com/), @boazsender (http://boazsender.com/), @miketaylr (http://miketaylr.com/), @vladikoff (http://vladfilippov.com/), @gf3 (http://gf3.ca/), @jon_neal (http://twitter.com/jon_neal), @wookiehangover (http://wookiehangover.com/), @darcy_clarke (http://darcyclarke.me), Aaron Gustafson (@AaronGustafson), and Kelly McCarthy (@ShirleyTemper).
